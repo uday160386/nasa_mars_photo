@@ -1,5 +1,3 @@
----
-
 # MMS, a photo of MARS: using NASA Mars Rover Photo API and Twilio
 
 Knowing about other planet especially MARS is always interesting. I always wonder on environment, landscape etc.,
